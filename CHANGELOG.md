@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/vidavidorra/github-action-renovate/compare/v1.0.5...v2.0.0) (2020-04-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This project has been moved to [renovate/github-action](https://github.com/renovatebot/github-action) and is no longer maintained here.
+
+### Bug Fixes
+
+* **deps:** update renovate/renovate docker tag to v19.193.0 ([#15](https://github.com/vidavidorra/github-action-renovate/issues/15)) ([d073690](https://github.com/vidavidorra/github-action-renovate/commit/d073690b294a9a705e5ae0eac9920a97b83b8b3b))
+* **deps:** update renovate/renovate docker tag to v19.204.2 ([#18](https://github.com/vidavidorra/github-action-renovate/issues/18)) ([97a3c02](https://github.com/vidavidorra/github-action-renovate/commit/97a3c023878afa4c0af1d60514914568c0deccaa))
+* **deps:** update renovate/renovate docker tag to v19.204.4 ([#25](https://github.com/vidavidorra/github-action-renovate/issues/25)) ([7a81903](https://github.com/vidavidorra/github-action-renovate/commit/7a819039daf5c68f4a0edeca4d86c8403540a5bc))
+* **deps:** update renovate/renovate docker tag to v19.209.0 ([#26](https://github.com/vidavidorra/github-action-renovate/issues/26)) ([75eccf1](https://github.com/vidavidorra/github-action-renovate/commit/75eccf12f21d7d267aaef78aa598a04fc7e3db1a))
+
+
+* add information about move to Renovate ([637d9f2](https://github.com/vidavidorra/github-action-renovate/commit/637d9f27e29ad4059975b2f3c717bea00ae01200))
+
 ### [1.0.5](https://github.com/vidavidorra/github-action-renovate/compare/v1.0.4...v1.0.5) (2020-03-30)
 
 ### Bug Fixes
