@@ -2,6 +2,18 @@
 
 GitHub Action to run Renovate self-hosted.
 
+---
+
+# ⚠ This project is no longer maintained here
+
+This project has been moved to [renovate/github-action](https://github.com/renovatebot/github-action) and is no longer maintained here.
+
+This has started as my personal project has since been taken over by Renovate as its official GitHub Action. That was wonderful news since that allows this project to reach more people and having it as official GitHub Action might help users find and trust this Action. I'm still an active contributer, but now at [renovate/github-action](https://github.com/renovatebot/github-action)!
+
+Please refer to [renovate/github-action](https://github.com/renovatebot/github-action) for the latest version.
+
+---
+
 <a name="toc"></a>
 
 ## Table of contents
